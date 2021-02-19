@@ -1,4 +1,4 @@
-## NFT (ERC1155) Contract for Font.Community
+## $FONT ERC20 Contract for Font.Community with supply of 2,000,000
 
 | Mainnet |  |
 |--|--|
